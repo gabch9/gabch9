@@ -71,13 +71,13 @@ Lightweight Azure Function that measures which wiki articles send engineers to S
 <h3>What I work on</h3>
 <hr/>
 
-**1. Authentication flows:** OpenID Connect, OAuth 2.0 (authorization code, On-Behalf-Of, client credentials), Single Sign-On through Azure AD, session management
-**2. Token security:** JWT issuance and validation, token lifetime management, claims-based authorization, API token validation
-**3. Access management:** MFA enforcement, conditional access, Just-In-Time provisioning, RBAC, FIDO2
-**4. Zero-secret architecture:** managed identities and Key Vault-held certificates for service-to-service authentication, so nothing lives in configuration
-**5. Secure development:** threat modeling, OWASP Top 10 review, CodeQL static analysis in CI, vulnerability triage
-**6. Clean code:** Reusable, understandable and maintanable code
-**7. UI:** UIs compliant with accessibility standards with responsive design in mind
+- **Authentication flows:** OpenID Connect, OAuth 2.0 (authorization code, On-Behalf-Of, client credentials), Single Sign-On through Azure AD, session management
+- **Token security:** JWT issuance and validation, token lifetime management, claims-based authorization, API token validation
+- **Access management:** MFA enforcement, conditional access, Just-In-Time provisioning, RBAC, FIDO2
+- **Zero-secret architecture:** managed identities and Key Vault-held certificates for service-to-service authentication, so nothing lives in configuration
+- **Secure development:** threat modeling, OWASP Top 10 review, CodeQL static analysis in CI, vulnerability triage
+- **Clean code:** Reusable, understandable and maintanable code
+- **UI:** UIs compliant with accessibility standards with responsive design in mind
 
 <h3>Tech stack</h3>
 <hr/>
@@ -92,12 +92,13 @@ Lightweight Azure Function that measures which wiki articles send engineers to S
 <h3>Education and certifications</h3>
 <hr/>
 
-B.Sc. Computational Systems Engineering — Universidad Fidélitas (2015–2018) Post-Bachelor Licentiate, Systems Quality Engineering — Universidad Fidélitas (in progress)
-Microsoft Certified: Identity and Access Administrator Associate (SC-300) — in progress
-Microsoft Certified: Azure Administrator Associate (AZ-104)
-Microsoft Certified: Azure Fundamentals (AZ-900)
-Microsoft Certified: Azure AI Fundamentals (AI-900)
-Microsoft Certified: GitHub Foundations
+- B.Sc. Computational Systems Engineering — Universidad Fidélitas (2015–2018)
+- Post-Bachelor Licentiate, Systems Quality Engineering — Universidad Fidélitas (in progress)
+- Microsoft Certified: Identity and Access Administrator Associate (SC-300) — in progress
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Certified: GitHub Foundations
 
 <h3>Spoken languages:</h3> 
 <hr/>
